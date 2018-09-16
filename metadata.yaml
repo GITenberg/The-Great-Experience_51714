@@ -1,11 +1,16 @@
 _repo: The-Great-Experience_51714
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51714-h/images/cover.jpg
 creator:
   author:
     agent_name: Farr, Julia
     gutenberg_agent_id: '46528'
     url: http://www.gutenberg.org/2009/agents/46528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51714#The-Great-Experience
 gutenberg_issued: '2016-04-10'
 gutenberg_type: Text
 identifiers:
